@@ -1,0 +1,4 @@
+#!/bin/bash
+# ryblog's radio paradise
+
+mplayer -playlist http://beta.radioparadise.com/m3u/aac-320.m3u
